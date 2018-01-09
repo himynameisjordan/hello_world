@@ -1,2 +1,2 @@
 # hello_world
-ideas, basically a digital box of random thoughts
+ideas, basically a digital box of my random thoughts
